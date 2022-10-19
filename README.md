@@ -2,4 +2,4 @@
 
 
 # Need to Improve this 
-#some properties nor executed well
+#some properties no executed well
